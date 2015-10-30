@@ -1,2 +1,1 @@
-# nfc_testing
-No named NFC testing for Android. I don't recomment to use it yet.
+Empty README for now. I will append new information in future.
